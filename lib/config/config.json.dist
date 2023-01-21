@@ -43,7 +43,7 @@
     "xmppServer": {
         "service": "xmpps://domain-xmpp.ltd:5223",
         "domain": "domain-xmpp.ltd",
-        "username": "bot@domain-xmpp.ltd",
+        "username": "botname",
         "password": "botPass",
         "resource": "botservice",
         "errorReply": "Oops, something went wrong :(",
